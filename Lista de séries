@@ -12,3 +12,19 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+channels>
+<channel>
+<name>[B]MANIFEST[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFPHeAedYwKpF1iW83qKXtPoX9B.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/M-play/SERIES/master/MANIFEST</externallink>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+<info>
+
+
+[COLOR white]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
