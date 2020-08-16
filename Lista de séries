@@ -229,3 +229,18 @@ channels>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B]SEE[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/M-play/SERIES/master/SEE</externallink>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/8TOkxONO3TEeJRuZWb0hG7SboyV.jpg</fanart>
+<info>
+
+
+[COLOR white]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
