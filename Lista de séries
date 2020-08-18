@@ -185,8 +185,8 @@ channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
-channels>
-<channel>
+channels
+channel
 <name>[B]NOS4A2[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccR64SXSsgWMW3W161VQKlrnjnh.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/M-play/LISTA-DE-TP-/master/TP%20-%20NOS4A2</externallink>
